@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="../Logo_Option_5_nobg.png" alt="Zentus Logo" width="400"/>
+</div>
+
 # Zentus
 
 ## Optimizing Renewables and Storage Through Intelligent Forecasting
