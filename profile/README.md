@@ -1,6 +1,6 @@
 # Zentus
 
-## Optimizing Renewables and Storage Through Intelligent Forecasting**
+## Optimizing Renewables and Storage Through Intelligent Forecasting
 
 Zentus is a renewable energy technology company focused on building intelligent forecasting systems that maximize revenue from renewable trading and operations. Supported by the Stanford Doerr School of Sustainability Accelerator, we combine deep energy domain expertise with advanced AI to solve critical challenges in high-wind energy markets.
 
